@@ -1,0 +1,9 @@
+{
+  "targetPath": "bin",
+  "dependencies": {
+    "bindbc-opengl": "~>1.0",
+    "bindbc-sdl": "~>1.0"
+  },
+  "versions": ["SDL_204", "GL_32"],
+  "name": "racetracks"
+}
